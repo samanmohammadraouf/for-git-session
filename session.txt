@@ -1,0 +1,1 @@
+this is a test for teaching how to work with git
